@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My IBM Capstone Project Pages
 
 You can use the [editor on GitHub](https://github.com/yl8g11/Capstone_W2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
