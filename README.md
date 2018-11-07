@@ -1,4 +1,4 @@
-## Welcome to My IBM Capstone Project Page
+## Welcome to My IBM Capstone Project Blog
 
 In this capstone project, we try to detect the most overrated and underrated restaurants around a place (by default, we choose the location: North York, ON). 
 
