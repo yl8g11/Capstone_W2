@@ -10,8 +10,6 @@ With the model we can estimate the predicted rating for each restaurant. A resta
 
 ### Most Overrated Restaurants
 
-```markdown
-
 name | category |	address	| postalcode	| lat	| lng	| rating | predicted rating | difference
 ---- | -------- | ------- | ----------- | --- | --- | ------ | ---------------- | ----------
 Buk Chang Dong Soon Tofu 북창동 순두부 돌솥밥 | Korean Restaurant | 5445 Yonge St. | M2N 5S1 | 43.777219 | -79.414861 | 8.4 | 7.4 | 1.0
@@ -20,11 +18,7 @@ Aroma Espresso Bar | Café | 6 Parkhome | NaN | 43.769449 | -79.413081 | 7.5 | 6
 The Fry | Fried Chicken Joint | 4864 Yonge Street | M2N 5N2 | 43.762993 | -79.411442 | 7.4 | 6.7 | 0.7
 Pizzaiolo | Pizza Place | 4920 Yonge St. | M2N 5N5 | 43.764289 | -79.411780 | 7.3 | 6.6 | 0.7
 
-```
-
 ### Most Underrated Restaurants
-
-```markdown
 
 name | category |	address	| postalcode	| lat	| lng	| rating | predicted rating | difference
 ---- | -------- | ------- | ----------- | --- | --- | ------ | ---------------- | ----------
@@ -34,14 +28,11 @@ Bar Koyoi	Japanese Restaurant | 5347 Yonge St | M2N 7A1 | 43.774943 | -79.414306
 Pho 88 Vietnamese Cuisine | Vietnamese Restaurant | 5197 Yonge St | NaN | 43.770456 | -79.413064 | 6.6 | 7.2 | -0.6
 Kiyomizu Japanese Restaurant | Japanese Restaurant | 41 Spring Garden Ave. | NaN | 43.764820 | -79.410106 | 6.5 | 7.1 | -0.6
 
-```
-
 ### Leaflet Map
 
 We plot the above mentioned restaurants on leaflet map, with blue circles representing overrated restaurants and red circles representing underrated restaurants.
 
 ![over_under_rated](https://user-images.githubusercontent.com/43836620/48100994-79b4e180-e1f3-11e8-998a-25e5f38479f1.JPG)
-
 
 ### Notebook
 
