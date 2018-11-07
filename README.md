@@ -24,7 +24,7 @@ name | category |	address	| postalcode	| lat	| lng	| rating | predicted rating |
 ---- | -------- | ------- | ----------- | --- | --- | ------ | ---------------- | ----------
 Oh Geul Boh Geul 오글보글 | Korean Restaurant | 5320 Yonge St	| M2N 5P9	| 43.773151	| -79.413915 | 6.1 | 7.2 | -1.1
 Jack Astor's Bar & Grill | Restaurant | 5051 Yonge St | M2N 5P2 | 43.767097 | -79.412263 | 7.1 | 8.1 | -1.0
-Bar Koyoi	Japanese Restaurant | 5347 Yonge St | M2N 7A1 | 43.774943 | -79.414306 | 6.3 | 7.0 | -0.7
+Bar Koyoi | Japanese Restaurant | 5347 Yonge St | M2N 7A1 | 43.774943 | -79.414306 | 6.3 | 7.0 | -0.7
 Pho 88 Vietnamese Cuisine | Vietnamese Restaurant | 5197 Yonge St | NaN | 43.770456 | -79.413064 | 6.6 | 7.2 | -0.6
 Kiyomizu Japanese Restaurant | Japanese Restaurant | 41 Spring Garden Ave. | NaN | 43.764820 | -79.410106 | 6.5 | 7.1 | -0.6
 
